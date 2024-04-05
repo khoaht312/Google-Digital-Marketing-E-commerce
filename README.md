@@ -6,3 +6,4 @@
 - [ ] Course 5: Assess for Success: Marketing Analytics and Measurement
 - [ ] Course 6: Make the Sale: Build, Launch, and Manage E-commerce Stores
 - [ ] Course 7: Satisfaction Guaranteed: Develop Customer Loyalty Online
+# Glossary terms
